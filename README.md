@@ -5,7 +5,7 @@
 - [概要](#gaityou)
 - [セッション](#Sesshon)
 - [エピローグ](#Epilogue)
-- [PCのステータス、およびその作成について](#PC_Status_and_Create)
+- [PCのステータス、およびその作成について](#PCStatusAndCreate)
 
 
 <h2 id="gaityou">概要</h2>
@@ -82,7 +82,7 @@ GMから脅威やナラティブをシナリオごとのブック[N]ランダム
 
 ---
 
-<h2 id="PC_Status_and_Create">PCのステータス、およびその作成について</h2>
+<h2 id="PCStatusAndCreate">PCのステータス、およびその作成について</h2>
 ## 
 
 + 基本能力
