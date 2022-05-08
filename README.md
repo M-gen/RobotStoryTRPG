@@ -6,7 +6,7 @@
 本ゲームは、ガンダムのTVシリーズのような物語が量産されるようなTRPGを目指しています。
 まずはじめに、「01_基本ルール」の各内容をご確認ください。
 
-[main_screen_1](image/main_screen_1.png)
+![main_screen_1](image/main_screen_1.png)
 
 ### 主な狙い
 
